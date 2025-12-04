@@ -1,10 +1,11 @@
 {
-    "mcpServers": {
+    "servers": {
         "kali-ctf-solver": {
             "command": "${workspaceFolder}/venv/bin/python",
             "args": [
                 "${workspaceFolder}/kali_ctf_solver.py"
-            ]
+            ],
+            "env": {}
         }
     }
 }
