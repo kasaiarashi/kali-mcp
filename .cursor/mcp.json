@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "kali-ctf-solver": {
+            "command": "/Users/krishnateja/Developer/Hacking/kali-mcp/venv/bin/python",
+            "args": [
+                "/Users/krishnateja/Developer/Hacking/kali-mcp/kali_ctf_solver.py"
+            ]
+        }
+    }
+}
